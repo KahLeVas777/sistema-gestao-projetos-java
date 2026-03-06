@@ -7,7 +7,7 @@ Este projeto foi construído para centralizar a operação de eventos, eliminand
 
 ### ⚙️ Principais Funcionalidades
 - **Gestão de Acessos:** Perfis blindados (Administrador, Gerente e Colaborador).
-- **Cadastro Estratégico de Projetos:** Inclusão de dados focados em marketing e organização (Título Inteiro, Título Abreviado, Texto Tema, Categoria Foco, Categoria Adicional e E-mail de Contato).
+- **Cadastro Estratégico de Projetos:** Inclusão de dados focados em organização (Título Inteiro, Título Abreviado, Texto Tema, Categoria Foco, Categoria Adicional e E-mail de Contato).
 - **Trava de Responsabilidade:** Impossibilidade sistêmica de criar um projeto sem a alocação de um **Gestor Responsável** (Regra de negócio aplicada via Construtor).
 - **Alocação de Equipes:** Distribuição de colaboradores por projeto de forma organizada.
 
