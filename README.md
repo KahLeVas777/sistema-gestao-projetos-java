@@ -26,7 +26,7 @@ O código-fonte está rigorosamente organizado para separar a interface, as regr
 
 ## 🚀 Como Executar o Projeto
 1. Faça o download do arquivo `.zip` ou clone este repositório:
-   `git clone https://github.com/seu-usuario/sistema-gestao-projetos-java.git`
+   `git clone https://github.com/KahLeVas777/sistema-gestao-projetos-java.git`
 2. Abra a pasta do projeto em sua IDE de preferência (IntelliJ IDEA, Eclipse ou VS Code).
 3. Navegue até a pasta `src` e localize o arquivo `Main.java`.
 4. Execute o arquivo `Main.java` para visualizar a simulação do sistema no console.
